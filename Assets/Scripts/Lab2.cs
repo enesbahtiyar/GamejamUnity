@@ -17,6 +17,7 @@ public class Lab2 : MonoBehaviour
 
     private void Start()
     {
+    //selam ben bir kod satırıyım
     }
 
     private void Update()
